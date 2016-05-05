@@ -1,6 +1,0 @@
-<TargetEndpoint name="default">
-    <HTTPTargetConnection>
-        <Properties/>
-        <URL>http://weather.yahooapis.com/</URL>
-    </HTTPTargetConnection>
-</TargetEndpoint>

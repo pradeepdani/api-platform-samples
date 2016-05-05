@@ -1,6 +1,0 @@
-<TargetEndpoint name="default">
-    <HTTPTargetConnection>
-        <Properties/>
-        <URL>http://demo23-test.apigee.net/v1/allbars</URL>
-    </HTTPTargetConnection>
-</TargetEndpoint>
